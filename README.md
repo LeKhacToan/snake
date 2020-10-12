@@ -1,6 +1,6 @@
-## Build project
+### Build project
 
-cargo build
+`cargo build`
 
-## Run project
-cargo run
+### Run project
+`cargo run`
